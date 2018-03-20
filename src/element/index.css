@@ -1,0 +1,18 @@
+/*轮播图焦点区*/
+.my_swiper #focus{
+   bottom: 120px;
+}
+.my_swiper #focus .swiper-pagination-bullet{
+    width: 24px;
+    margin-right:4px;
+    border-radius: 2px;
+    height: 2px;
+    background: #45caff;
+}
+
+#busNav img[lazy=loading],#about img[lazy=loading],#bus img[lazy=loading],#culture img[lazy=loading],#duty img[lazy=loading],#join img[lazy=loading]{
+  width: 15px;
+  height: 15px;
+}
+
+
